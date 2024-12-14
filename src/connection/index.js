@@ -1,15 +1,15 @@
 import { createWeb3Modal, defaultConfig } from '@web3modal/ethers/react'
 
-export const SUPPORTED_CHAIN = 99876;
+export const SUPPORTED_CHAIN = 300;
 
 export const isSupportedChain = (chainId) =>
   Number(chainId) === SUPPORTED_CHAIN;
 
-const EMC = {
+const ZkSyncSepolia = {
   chainId: SUPPORTED_CHAIN,
-  name: "emc",
-  currency: "EMC",
-  explorerUrl: "https://testnet.emcscan.com",
+  name: "ZkSync Sepolia",
+  currency: "ETH",
+  explorerUrl: "https://sepolia.explorer.zksync.io/",
   rpcUrl: import.meta.env.VITE_INFURA_RPC,
 };
 
@@ -23,7 +23,7 @@ const metadata = {
 
 export const configWeb3Modal = () => createWeb3Modal({
   ethersConfig: defaultConfig({ metadata }),
-  chains: [EMC],
+  chains: [ZkSyncSepolia],
   projectId: import.meta.env.VITE_PROJECTID,
   enableAnalytics: false,
   themeVariables: {
