@@ -98,14 +98,14 @@ Design:
 
 ```bash 
 Repo:  
- https://github.com/pheobeayo/whistlechain-smart
+ https://github.com/pheobeayo/whistlechain-aleph
  
  ``` 
 
 
  ```bash 
  PitchDeck:
- https://www.canva.com/design/DAGTZMxUC9U/efO0ZBcFvo_gar7of_LxkA/view?utm_content=DAGTZMxUC9U&utm_campaign=designshare&utm_medium=link&utm_source=editor 
+ https://www.canva.com/design/DAGZTcdPpqI/J8BRH1onmKyukyTrZ_1TqQ/view?utm_content=DAGZTcdPpqI&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hc399074e3a
  
  ```
 
@@ -113,24 +113,27 @@ Repo:
 
 
  ```bash 
- Whistlechain deployed to emc: 0xF2837cD516f35686cBfD91B8A523abE6216DdE52 
+ Whistlechain deployed to zksync: 0xD241E3e7a90b5038E97aCdE1094390e27f74104b 
  
  ```
 
 
 ```bash 
-WhistleToken deployed to: 0x8d09d183A2d0D5a9cC91172a8568e0A1C27314ce
+WhistleToken deployed to: 0xCCe81E49194dAE1036c553d27D1d6dE854A38ca2
+
+
 
 ```
 
 
 ```bash
-Demo Video:https://youtu.be/4OymI0MrVVU
+Demo Video: https://youtu.be/BLtW00oVriE
 
 ```
 
 
 ```bash 
-MVP:https://whistlechain-emc.vercel.app/ 
+
+MVP:https://whistlechain-aleph.vercel.app/ 
 
 ```
