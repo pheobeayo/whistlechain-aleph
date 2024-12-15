@@ -5805,7 +5805,7 @@ which@^2.0.1:
     react-toastify "^10.0.5"
     viem "2.x"
     wagmi "^2.12.17"
-    whistlechain "file:../../../AppData/Local/Yarn/Cache/v6/npm-whistlechain-0.0.0-aa20096f-63ee-4064-b50c-413270898103-1734169408687/node_modules/whistlechain"
+    whistlechain "file:../../../Library/Caches/Yarn/v6/npm-whistlechain-0.0.0-447dd9c1-7c57-41e6-a571-7a2f7a594f91-1734216160255/node_modules/whistlechain"
 
 word-wrap@^1.2.5:
   version "1.2.5"
